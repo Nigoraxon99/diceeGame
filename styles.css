@@ -1,0 +1,26 @@
+body{
+  background-color: #EAF9F9;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  font-size: 5rem;
+  color: #11999E;
+}
+p{
+  font-size: 3rem;
+  margin: auto;
+  color: #66BFBF;
+}
+.dice-container{
+  margin: auto;
+  column-count: 2;
+}
+.img1{
+  width: 45%;
+  margin: 30px;
+}
+.img2{
+  width: 45%;
+  margin: 30px;
+}
